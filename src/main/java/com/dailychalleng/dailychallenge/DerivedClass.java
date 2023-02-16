@@ -4,10 +4,7 @@
  */
 package com.dailychalleng.dailychallenge;
 
-/**
- *
- * @author kernel-mk
- */
+
 public class DerivedClass extends BaseClass {
     
 }

@@ -4,10 +4,7 @@
  */
 package com.dailychalleng.dailychallenge;
 
-/**
- *
- * @author konate-mk
- */
+
 public class BaseClass {
     
     public void display() {
